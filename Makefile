@@ -7,7 +7,8 @@ example_srcs := \
 	cat/cat.c \
 	cat/cat_io_uring.c \
 	cat/cat_liburing.c \
-	cp/cp_liburing.c
+	cp/cp_liburing.c \
+	http/http_liburing.c
 
 all_targets :=
 
